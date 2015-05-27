@@ -1,5 +1,8 @@
+[dependencies]
+libc = "0.1"
+
 [package]
 
 name = "readline"
 version = "0.0.1"
-authors = ["Sean Perry", "Mika Attila"]
+authors = ["Sean Perry", "Mika Attila", "David Boon <david.boon@gmail.com"] 
